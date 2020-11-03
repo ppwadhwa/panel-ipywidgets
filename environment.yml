@@ -1,0 +1,12 @@
+name: panel-ipywidgets2
+
+channels:
+  - conda-forge
+  - pyviz
+
+
+dependencies:
+  - jupyterlab
+  - panel
+  - hvplot
+  - ipywidgets
