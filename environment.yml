@@ -1,4 +1,4 @@
-name: panel-ipywidgets2
+name: panel-ipywidgets
 
 channels:
   - conda-forge
