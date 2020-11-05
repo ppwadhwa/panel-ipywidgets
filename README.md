@@ -2,4 +2,6 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tonyfast/oss-notebooks/HEAD)
 
+        import panel_ipywidgets
+
 demonstrations of the `panel` and `ipywidgets` working together 🤗.
